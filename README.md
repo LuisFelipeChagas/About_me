@@ -4,7 +4,7 @@
 
 My hobbies:
 
-*Physical activities
-*Read
-*Program
-*Play chess
+* Physical activities
+* Read
+* Program
+* Play chess
